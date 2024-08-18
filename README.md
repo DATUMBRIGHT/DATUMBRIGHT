@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @DATUMBRIGHT
-- 👀 I’m interested in .Machine Learning
-- ..
-- 🌱 I’m currently persuing a Masters in Data Science ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- 🌱 Currently pursuing an MSc in Data Science at the University of New Haven,
+  
+-  📫  with a focus on Machine Learning, Deep Learning, and Data Engineering. Expertise in Python programming and statistical modeling, with
 
-<!---
-DATUMBRIGHT/DATUMBRIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-   hands-on experience in developing and deploying ML models (SVM, XGBoost, CNNs) using Scikit-learn and PyTorch. Proficient in data manipulation and analysis using Pandas, and skilled in data visualization with Power BI.
+
+- 💨  Experienced in cloud computing with AWS (EC2, S3) and applying data-driven techniques to optimize system performance.
+
+
