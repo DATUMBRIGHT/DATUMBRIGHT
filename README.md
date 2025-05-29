@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DATUMBRIGHT
   
-- 🌱 Currently pursuing an MSc in Data Science at the University of New Haven,
+- 🌱 MSc in Data Science at the University of New Haven,
   
 -  📫  with a focus on Machine Learning, Deep Learning, and Data Engineering. Expertise in Python programming and statistical modeling, with
 
